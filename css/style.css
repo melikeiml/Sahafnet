@@ -1,0 +1,10 @@
+body {
+    padding-bottom: 100px; /* Footer'ın içeriği ezmemesi için, eğer fixed footer kullanıyorsanız */
+}
+
+.card-img-top {
+    /* Kitap kapaklarının düzgün görünmesi için */
+    width: 100%;
+    /* height: 300px; // index.php'de inline style olarak verildi */
+    /* object-fit: contain; // index.php'de inline style olarak verildi */
+}
